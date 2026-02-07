@@ -1,3 +1,6 @@
+print("qwe")
+print("qeee")
+print("eee")
 print("MO")
 print("MO")
 print("MO")
